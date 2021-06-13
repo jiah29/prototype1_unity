@@ -1,3 +1,3 @@
 # Unity Code
 
-This repository stores all C# program that I have written for my unity game prototypes/projects.
+This repository stores all C# scipts that I have written during the Unity Junior Programmer pathway.
